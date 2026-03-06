@@ -12,4 +12,5 @@ while(i<=n){
  
  i=i+1;
 }cout<<molt;
+return 0;
 }   
