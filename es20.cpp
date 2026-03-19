@@ -17,7 +17,7 @@ int main() {
 
     double somma = 0;
     for (int i = 0; i < n; i++) {
-        somma += numeri[i];
+        somma = somma+ numeri[i];
     }
 
     double media = somma / n;
