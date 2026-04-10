@@ -24,7 +24,7 @@ if(conta==n){
     cout<<" gli array sono uguali";
 }
 }
-
+}
 
 
 
