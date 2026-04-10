@@ -12,7 +12,7 @@ int main() {
         numeri[i] = rand() % 100 + 1;
         cout << numeri[i] << " ";   
     }
-    cout << "\nInserisci un numero da cercare: ";
+    cout << "Inserisci un numero da cercare: ";
     int numeroDaCercare;
     cin >> numeroDaCercare;
     int posizione = -1;
